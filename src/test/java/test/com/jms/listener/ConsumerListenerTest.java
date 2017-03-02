@@ -14,7 +14,7 @@ public class ConsumerListenerTest
 {
 	
 	private	TextMessage	message	=	null;
-
+	
 	@Before
 	public void setUp() throws Exception
 	{
